@@ -6,6 +6,10 @@
 
 This repository contains R code and supporting datasets used to generate weekly respiratory activity level maps. The data sources include:
 
+### Download
+
+Download this folder into your working R directory - https://swdistricthealth.sharepoint.com/:f:/s/EnvironmentalandCommunityHealthServices/Ehi0Wktpk3JKt_KiJS34v78B_ZtQlngqwEpYLtBzmdKaVQ?e=xLbr7S 
+
 ### ESSENCE Data for:
 - Influenza-like Illness (ILI)
 - COVID-like Illness (CLI)
